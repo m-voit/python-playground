@@ -2,7 +2,7 @@
 name = "python-playground"
 version = "0.1.0"
 description = ""
-authors = ["Markus Voit"]
+authors = []
 readme = "README.md"
 packages = [{include = "src"}]
 
