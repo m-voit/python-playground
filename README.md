@@ -1,2 +1,3 @@
-# python-playground
-Playground to experiment with python
+# Python playground
+
+This project is a playground to experiment with python and the python ecosystem
