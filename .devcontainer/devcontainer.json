@@ -39,9 +39,10 @@
 			"extensions": [
 				"ms-python.python",
 				"ms-python.vscode-pylance",
+        "ms-toolsai.jupyter",
 				"GitHub.copilot",
 				"EditorConfig.EditorConfig",
-				"ms-toolsai.jupyter"
+				"ban.spellright"
 			]
 		}
 	},
